@@ -36,16 +36,16 @@ En el archivo busy_waiting.c se soluciona el problema aplicando un algoritmo de 
 * 1. Capturas sin hilos
 
 procesador intel core i5 10°generación
-<img src="./multi-threads-santozzi/images/essica_captura_sinhilos.jpg">
+<img src="./practico2barqSO//images/essica_captura_sinhilos.jpg">
 
 <br>
 procesador intel core i7 11° generación
-<img src="./multi-threads-santozzi/images/sergio_capturas_sin_hilos.png">
+<img src="./practico2barqSO//images/sergio_capturas_sin_hilos.png">
 
 <br>
 procesador intel core i3 4°generación
 <br>
-<img src="./multi-threads-santozzi/images/Aldana_captura_sinhilos.png">
+<img src="./practico2barqSO//images/Aldana_captura_sinhilos.png">
 
 <br>
 
