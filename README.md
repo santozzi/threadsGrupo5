@@ -36,7 +36,7 @@ En el archivo busy_waiting.c se soluciona el problema aplicando un algoritmo de 
 * 1. Capturas sin hilos
 
 procesador intel core i5 10°generación
-<img src="./practico2barqSO/images/jessica_captura_sinhilos.jpg">
+<img src="./practico2barqSO/images/Jessica_captura_sinhilos.jpg">
 
 <br>
 procesador intel core i7 11° generación
