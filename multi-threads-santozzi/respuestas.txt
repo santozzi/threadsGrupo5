@@ -1,0 +1,8 @@
+¿Qué problemas se puede ver a simple vista?
+===========================================
+El problema es que cada uno de los hilos consume la región crítica, sin ningun orden.
+
+¿Qué nombre se le dá a esta falla que ocurre en el código que provoca que cada ejecución presente
+resultados diferentes?
+=================================================================================================
+A este problea se lo llama race condition, para solucionarlo se debe utilizar exclusión mutua, en esta oportunidad Busy waiting.
