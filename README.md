@@ -113,11 +113,11 @@ procesador intel core i3 4°generación
 * 4 Capturas con race
 
 procesador intel core i5 10°generación
-<img src="./images/Jessica_captura_conrace.jpg">
+<img src="./practico2barqSO/images/Jessica_captura_conrace.jpg">
 
 <br>
 procesador intel core i7 11° generación
-<img src="./images/sergio_conrace.png">
+<img src="./practico2barqSO/images/sergio_conrace.png">
 
 <br>
 
