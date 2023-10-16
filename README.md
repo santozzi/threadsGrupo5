@@ -3,6 +3,7 @@
 ## Indice
 * <a href="#practico2a"> Práctico 2A </a>
 * <a href="#practico2b"> Práctico 2B </a>
+* <a href="#parcial"> Video Parcial </a>
 * <a href="#integrantes"> Integrantes </a>
 
 <a name="practico2a"></a>
@@ -145,6 +146,13 @@ procesador intel core i7 11° generación
 
 * 5.a)El acumulador siempre da 0 ya que suma y resta 5 la misma cantidad de veces, esto se debe por el método acquire que se utiliza para adquirir o tomar posesión de un recurso compartido, como un semáforo, en un entorno concurrente.
 * 5.b) Con respecto al algoritmo sin hilos el tiempo es menor, ya que usa hilos en paralelo.
+
+<a name="parcial"></a>
+### Parcial 17/10
+<a href="https://drive.google.com/file/d/1QtswxljJmFlIDgwMrwPWLlqOZPtQMtf0/view"><img src="./images/screenshot video.png" alt=""></a>
+<a href="https://drive.google.com/file/d/1QtswxljJmFlIDgwMrwPWLlqOZPtQMtf0/view">Link al video</a>
+
+
 
 <a name="integrantes"></a>
 #### Integrantes
