@@ -157,6 +157,8 @@ procesador intel core i7 11° generación
 <a name="practico3"></a>
 <p align="center">
   <img src="./images/practico3.png" alt="celular práctico 3">
+  <br><br><br>
+  <img src="./images/practico3-codigo.png" alt="celular práctico 3">
 </p>
 <a href="https://www.youtube.com/watch?v=_tuNQea3-3U&ab_channel=SergioAntozzi">Video a práctico 3 </a>
 
