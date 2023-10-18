@@ -4,6 +4,7 @@
 * <a href="#practico2a"> Práctico 2A </a>
 * <a href="#practico2b"> Práctico 2B </a>
 * <a href="#parcial"> Video Parcial </a>
+* <a href="#practico3"> Práctico 3</a>
 * <a href="#integrantes"> Integrantes </a>
 
 <a name="practico2a"></a>
@@ -152,6 +153,12 @@ procesador intel core i7 11° generación
 <a href="https://drive.google.com/file/d/1QtswxljJmFlIDgwMrwPWLlqOZPtQMtf0/view"><img src="./images/screenshot video.png" alt=""></a>
 <a href="https://drive.google.com/file/d/1QtswxljJmFlIDgwMrwPWLlqOZPtQMtf0/view">Link al video</a>
 
+
+<a name="practico3"></a>
+<p align="center">
+  <img src="./images/practico3.png" alt="celular práctico 3">
+</p>
+<a href="https://www.youtube.com/watch?v=_tuNQea3-3U&ab_channel=SergioAntozzi">Video a práctico 3 </a>
 
 
 <a name="integrantes"></a>
