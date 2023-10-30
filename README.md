@@ -5,6 +5,7 @@
 * <a href="#practico2b"> Práctico 2B </a>
 * <a href="#parcial"> Video Parcial </a>
 * <a href="#practico3"> Práctico 3</a>
+* <a href="#practico4"> Práctico 4</a>
 * <a href="#integrantes"> Integrantes </a>
 
 <a name="practico2a"></a>
@@ -149,12 +150,14 @@ procesador intel core i7 11° generación
 * 5.b) Con respecto al algoritmo sin hilos el tiempo es menor, ya que usa hilos en paralelo.
 
 <a name="parcial"></a>
-### Parcial 17/10
+## Parcial 17/10
 <a href="https://drive.google.com/file/d/1QtswxljJmFlIDgwMrwPWLlqOZPtQMtf0/view"><img src="./images/screenshot video.png" alt=""></a>
 <a href="https://drive.google.com/file/d/1QtswxljJmFlIDgwMrwPWLlqOZPtQMtf0/view">Link al video</a>
 
 
 <a name="practico3"></a>
+## Practico 3
+
 <p align="center">
   <img src="./images/practico3.png" alt="celular práctico 3">
   <br><br><br>
@@ -162,7 +165,20 @@ procesador intel core i7 11° generación
 </p>
 <a href="https://www.youtube.com/watch?v=_tuNQea3-3U&ab_channel=SergioAntozzi">Video a práctico 3 </a>
 
+<a name="practico4"></a>
+## Practico 4
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Jyhi2JmRuls&ab_channel=SergioAntozzi">
+    <img src="./images/p4pantalla.png" alt="celular práctico 3">
+  </a>
+  <br><br><br>
+  <img src="./images/tp4c1.png" alt="celular práctico 3">
+  <img src="./images/tp4c2.png" alt="celular práctico 3">
+  <img src="./images/tp4c3.png" alt="celular práctico 3">
+  <img src="./images/tp4c4.png" alt="celular práctico 3">
+</p>
 
+<a href="https://www.youtube.com/watch?v=Jyhi2JmRuls&ab_channel=SergioAntozzi">Video a práctico 4 </a>
 <a name="integrantes"></a>
 #### Integrantes
 <ul>
