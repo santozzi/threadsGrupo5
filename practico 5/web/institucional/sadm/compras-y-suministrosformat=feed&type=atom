@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-es">
+	<title type="text">Compras y Suministros</title>
+	<subtitle type="text">Sitio de la Facultad Regional Bahía Blanca perteneciente a la Universidad Tecnológica Nacional</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.frbb.utn.edu.ar"/>
+	<id>https://www.frbb.utn.edu.ar/frbb/institucional/sadm/compras-y-suministros</id>
+	<updated>2023-11-06T14:37:26+00:00</updated>
+	<author>
+		<name>FRBB UTN</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.frbb.utn.edu.ar/frbb/institucional/sadm/compras-y-suministros?format=feed&amp;type=atom"/>
+	<entry>
+		<title>CD 48/2023 ADQ. TERMOMETRO LASER INDUSTRIAL INFRARROJO</title>
+		<link rel="alternate" type="text/html" href="https://www.frbb.utn.edu.ar/frbb/institucional/sadm/compras-y-suministros/492-cd-48-2023-adq-termometro-laser-industrial-infrarrojo"/>
+		<published>2023-03-28T16:24:27+00:00</published>
+		<updated>2023-03-28T16:24:27+00:00</updated>
+		<id>https://www.frbb.utn.edu.ar/frbb/institucional/sadm/compras-y-suministros/492-cd-48-2023-adq-termometro-laser-industrial-infrarrojo</id>
+		<author>
+			<name>Sonia Perata</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;row&quot; style=&quot;font-size: 16px;display:block;&quot;&gt;
+    &lt;h3&gt; CD 48/2023 ADQ. TEEMÓMETRO LASER INDUSTRIAL INFRARROJO  &lt;/h3&gt;
+      &lt;br&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;i class=&quot;fa fa-file-pdf-o&quot; aria-hidden=&quot;true&quot; style=&quot;color:#9C27B0&quot;&gt;&lt;/i&gt; &lt;a style=&quot;color:#9C27B0; font-weight:700;&quot; href=&quot;https://www.frbb.utn.edu.ar/frbb/info/secretarias/administrativa/compras/generales48-23.pdf&quot;&gt;Condiciones Generales&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;i class=&quot;fa fa-file-word-o&quot; aria-hidden=&quot;true&quot; style=&quot;color:#9C27B0&quot;&gt;&lt;/i&gt; &lt;a style=&quot;color:#9C27B0; font-weight:700;&quot; href=&quot;https://www.frbb.utn.edu.ar/frbb/info/secretarias/administrativa/compras/particulares48-23.doc&quot;&gt;Condiciones Particulares&lt;/a&gt;&lt;/li&gt;     
+    &lt;/ul&gt;
+      &lt;br&gt;
+  </summary>
+		<content type="html">&lt;div class=&quot;row&quot; style=&quot;font-size: 16px;display:block;&quot;&gt;
+    &lt;h3&gt; CD 48/2023 ADQ. TEEMÓMETRO LASER INDUSTRIAL INFRARROJO  &lt;/h3&gt;
+      &lt;br&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;i class=&quot;fa fa-file-pdf-o&quot; aria-hidden=&quot;true&quot; style=&quot;color:#9C27B0&quot;&gt;&lt;/i&gt; &lt;a style=&quot;color:#9C27B0; font-weight:700;&quot; href=&quot;https://www.frbb.utn.edu.ar/frbb/info/secretarias/administrativa/compras/generales48-23.pdf&quot;&gt;Condiciones Generales&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;i class=&quot;fa fa-file-word-o&quot; aria-hidden=&quot;true&quot; style=&quot;color:#9C27B0&quot;&gt;&lt;/i&gt; &lt;a style=&quot;color:#9C27B0; font-weight:700;&quot; href=&quot;https://www.frbb.utn.edu.ar/frbb/info/secretarias/administrativa/compras/particulares48-23.doc&quot;&gt;Condiciones Particulares&lt;/a&gt;&lt;/li&gt;     
+    &lt;/ul&gt;
+      &lt;br&gt;
+  </content>
+		<category term="Compras y Suministros" />
+	</entry>
+</feed>

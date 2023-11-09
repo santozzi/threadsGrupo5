@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-es">
+	<title type="text">Secretaría Académica - Registro de Aspirantes</title>
+	<subtitle type="text">Sitio de la Facultad Regional Bahía Blanca perteneciente a la Universidad Tecnológica Nacional</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.frbb.utn.edu.ar"/>
+	<id>https://www.frbb.utn.edu.ar/frbb/institucional/sacad/registro-de-aspirantes</id>
+	<updated>2023-11-06T14:36:33+00:00</updated>
+	<author>
+		<name>FRBB UTN</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.frbb.utn.edu.ar/frbb/institucional/sacad/registro-de-aspirantes?format=feed&amp;type=atom"/>
+</feed>

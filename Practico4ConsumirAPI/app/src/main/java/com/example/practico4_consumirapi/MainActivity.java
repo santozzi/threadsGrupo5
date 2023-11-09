@@ -30,10 +30,13 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         setContentView(R.layout.activity_main);
+
         nombre = (EditText)findViewById(R.id.editTextNombrePersona);
         campoTextoGenero = (EditText) findViewById(R.id.textGenero);
         edad = (EditText) findViewById(R.id.textEdad);
+
         txtEdadConImagen = (TextView) findViewById(R.id.txtEdadConImagen);
         imaGeneroMale = (ImageView) findViewById(R.id.imgGeneroMale);
         imaGeneroFem = (ImageView) findViewById(R.id.imgGeneroFem);

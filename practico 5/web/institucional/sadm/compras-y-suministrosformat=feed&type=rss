@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Compras y Suministros</title>
+		<description><![CDATA[Sitio de la Facultad Regional Bahía Blanca perteneciente a la Universidad Tecnológica Nacional]]></description>
+		<link>https://www.frbb.utn.edu.ar/frbb/institucional/sadm/compras-y-suministros</link>
+		<lastBuildDate>Mon, 06 Nov 2023 14:37:26 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.frbb.utn.edu.ar/frbb/institucional/sadm/compras-y-suministros?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<item>
+			<title>CD 48/2023 ADQ. TERMOMETRO LASER INDUSTRIAL INFRARROJO</title>
+			<link>https://www.frbb.utn.edu.ar/frbb/institucional/sadm/compras-y-suministros/492-cd-48-2023-adq-termometro-laser-industrial-infrarrojo</link>
+			<guid isPermaLink="true">https://www.frbb.utn.edu.ar/frbb/institucional/sadm/compras-y-suministros/492-cd-48-2023-adq-termometro-laser-industrial-infrarrojo</guid>
+			<description><![CDATA[<div class="row" style="font-size: 16px;display:block;">
+    <h3> CD 48/2023 ADQ. TEEMÓMETRO LASER INDUSTRIAL INFRARROJO  </h3>
+      <br>
+      <ul>
+        <li><i class="fa fa-file-pdf-o" aria-hidden="true" style="color:#9C27B0"></i> <a style="color:#9C27B0; font-weight:700;" href="https://www.frbb.utn.edu.ar/frbb/info/secretarias/administrativa/compras/generales48-23.pdf">Condiciones Generales</a></li>
+        <li><i class="fa fa-file-word-o" aria-hidden="true" style="color:#9C27B0"></i> <a style="color:#9C27B0; font-weight:700;" href="https://www.frbb.utn.edu.ar/frbb/info/secretarias/administrativa/compras/particulares48-23.doc">Condiciones Particulares</a></li>     
+    </ul>
+      <br>
+  ]]></description>
+			<category>Compras y Suministros</category>
+			<pubDate>Tue, 28 Mar 2023 16:24:27 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Secretaría Académica - Concursos Docentes</title>
+		<description><![CDATA[Sitio de la Facultad Regional Bahía Blanca perteneciente a la Universidad Tecnológica Nacional]]></description>
+		<link>https://www.frbb.utn.edu.ar/frbb/institucional/sacad/concursos-docentes</link>
+		<lastBuildDate>Mon, 06 Nov 2023 14:36:34 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.frbb.utn.edu.ar/frbb/institucional/sacad/concursos-docentes?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+	</channel>
+</rss>
