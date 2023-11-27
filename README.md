@@ -7,6 +7,7 @@
 * <a href="#practico3"> Práctico 3</a>
 * <a href="#practico4"> Práctico 4</a>
 * <a href="#practico5"> Práctico 5</a>
+* <a href="#practico6"> Práctico 6</a>
 * <a href="#integrantes"> Integrantes </a>
 
 <a name="practico2a"></a>
@@ -188,6 +189,11 @@ procesador intel core i7 11° generación
 <img src="./images/practico5/nginxhtml.png">
 <img src="./images/practico5/nginxphpmayadmin.png">
 </p>
+
+<a name="practico6"></a>
+## Práctico 6
+<a href="https://www.youtube.com/watch?v=quu46Yzjh1E&ab_channel=SergioAntozzi">Video práctico 6</a>
+
 <a name="integrantes"></a>
 #### Integrantes
 <ul>
